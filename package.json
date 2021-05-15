@@ -1,0 +1,19 @@
+{
+  "name": "create-custom-app",
+  "version": "1.0.0",
+  "description": "Creates a customized app (supports react+hapi in this version for now). More versions and configurations to come",
+  "main": "index.js",
+  "scripts": {
+    "create-custom-app": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/sumedhark/create-custom-app.git"
+  },
+  "author": "Sumedha R Kulkarni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumedhark/create-custom-app/issues"
+  },
+  "homepage": "https://github.com/sumedhark/create-custom-app#readme"
+}
