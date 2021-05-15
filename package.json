@@ -1,19 +1,19 @@
 {
-  "name": "create-custom-app",
+  "name": "create-fullstack-template",
   "version": "1.0.0",
   "description": "Creates a customized app (supports react+hapi in this version for now). More versions and configurations to come",
   "main": "index.js",
   "scripts": {
-    "create-custom-app": "node index.js"
+    "create-fullstack-template": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://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@github.com/sumedhark/create-custom-app.git"
+    "url": "git+https://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@github.com/sumedhark/create-fullstack-template.git"
   },
   "author": "Sumedha R Kulkarni",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sumedhark/create-custom-app/issues"
+    "url": "https://github.com/sumedhark/create-fullstack-template/issues"
   },
-  "homepage": "https://github.com/sumedhark/create-custom-app#readme"
+  "homepage": "https://github.com/sumedhark/create-fullstack-template#readme"
 }
