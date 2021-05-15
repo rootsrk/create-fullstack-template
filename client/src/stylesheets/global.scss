@@ -1,0 +1,48 @@
+@import './_variables.scss';
+
+.btn {
+  &-primary {
+    background-color: $base-blue !important;
+  }
+
+  &-outline-primary {
+    border-color: $base-blue !important;
+    color: $base-blue !important;
+
+    &:hover {
+      background-color: $base-blue !important;
+      color: $base-white !important;
+    }
+  }
+}
+
+div {
+  padding: 0;
+
+  &.card-body {
+    padding: 30px !important;
+  }
+}
+
+.col-sm-auto {
+  padding: 0;
+}
+
+.row,
+.row > * {
+  margin: 0;
+  padding: 0;
+}
+
+.toast {
+  &.show {
+    position: absolute;
+    z-index: 50;
+    bottom: 30px;
+    right: 30px;
+  }
+}
+
+.leaflet-container {
+  max-height: 50vh;
+}
