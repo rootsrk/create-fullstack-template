@@ -1,6 +1,6 @@
 {
   "name": "create-fullstack-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates a customized app (supports react+hapi in this version for now). More versions and configurations to come",
   "main": "index.js",
   "scripts": {
